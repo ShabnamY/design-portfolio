@@ -1,4 +1,4 @@
-# Cake Carousel 
+# Cake Cosmos
 # Preview
 <img width="800" height="358" alt="carousel" src="https://github.com/user-attachments/assets/a92f9338-9e9e-4d6f-9dfb-1d1df5c43458" />
 
